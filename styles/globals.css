@@ -10,6 +10,19 @@ body {
   box-sizing: border-box;
 }
 
+a {
+  color: #b09c61;
+}
+
+a:hover {
+  color: #ffd700;
+}
+
+h1, h2, h3 {
+  color: #b09c61;
+}
+
+
 main {
   padding: 5rem 0;
   flex: 1;
