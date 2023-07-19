@@ -12,7 +12,7 @@ export default function Home() {
     <div className={styles.container}>
       <Head>
         <title>Miss Buffalo</title>
-        <meta name="description" content="Miss Buffalo Scholarship Organization" />
+        <meta name="description" content="Miss Buffalo Scholarship Organization " />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
