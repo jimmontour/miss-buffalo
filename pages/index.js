@@ -32,9 +32,10 @@ export default function Home() {
       <main className={styles.main}>
   <section className={styles.hero}>
   <div className={styles.heroContent}>
-    <h1 className={styles.heroTitle}>Apply to be a Miss Buffalo Scholarship Delegate</h1>
-    <h2 className={styles.heroSubtitle}>Miss America Opportunity and its affiliates strive to recognize the intelligence, talent, moral character, and personal commitment of the participants as they pursue their academic and career goals.  Participating in the Miss America system not only helps young women pay for college and prepare for a career, it also provides an opportunity to gain additional life experiences working on issues of importance to society, enhances their personal and professional skills, and develops their talents.</h2>
-    <a href="https://docs.google.com/forms/d/e/1FAIpQLSdY5WY1ZeTEAGQepA-QjYiYxGLVo_fag1XvOHvoCJ7DY551Ew/viewform" className={styles.heroButton}>Apply Now</a>
+    <h1 className={styles.heroTitle}>The 2023 Miss Buffalo Scholarship Competition</h1>
+    <h2 className={styles.heroSubtitle}>Saturday, October 28 · 6 - 9pm EDT</h2>
+    <h2 className={styles.heroSubtitle}>Bennett High School, 2885 Main Street, Buffalo, NY 14214</h2>
+    <a href="https://www.eventbrite.com/e/miss-buffalo-scholarship-competition-tickets-703555693017?aff=oddtdtcreator&fbclid=IwAR0HH2yC0TOGtTRI58bO_wT8P46UhgbKJLjPrR1JKOBb2nD9yTZzhfQsH50_aem_AZJGYZinbyvJsjT4PR0nb8adXwYyq6cJ5t94yIyyidMps_eUfnkvXpFxNEHnrWS-Kew&mibextid=Zxz2cZ" className={styles.heroButton}>Purchase Tickets</a>
   </div>
   </section>
   </main>
